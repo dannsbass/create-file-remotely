@@ -1,0 +1,1 @@
+alias mygit="php git_client.php"
